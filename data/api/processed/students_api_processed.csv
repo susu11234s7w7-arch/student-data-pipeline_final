@@ -1,0 +1,31 @@
+﻿id,name,city,age,score,department,score_level
+1,Emily Johnson,Phoenix,29,26.19,API Source,Fail
+2,Michael Williams,Houston,36,42.86,API Source,Fail
+3,Sophia Brown,Washington,43,59.52,API Source,Pass
+4,James Davis,Seattle,46,66.67,API Source,Pass
+5,Emma Miller,Jacksonville,31,30.95,API Source,Fail
+6,Olivia Wilson,Fort Worth,23,11.9,API Source,Fail
+7,Alexander Jones,Indianapolis,39,50.0,API Source,Fail
+8,Ava Taylor,Fort Worth,28,23.81,API Source,Fail
+9,Ethan Martinez,San Antonio,34,38.1,API Source,Fail
+10,Isabella Anderson,New York,32,33.33,API Source,Fail
+11,Liam Garcia,Denver,30,28.57,API Source,Fail
+12,Mia Rodriguez,Jacksonville,25,16.67,API Source,Fail
+13,Noah Hernandez,New York,41,54.76,API Source,Fail
+14,Charlotte Lopez,Columbus,37,45.24,API Source,Fail
+15,William Gonzalez,San Jose,33,35.71,API Source,Fail
+16,Avery Perez,Columbus,26,19.05,API Source,Fail
+17,Evelyn Sanchez,San Diego,38,47.62,API Source,Fail
+18,Logan Torres,Columbus,32,33.33,API Source,Fail
+19,Abigail Rivera,Chicago,29,26.19,API Source,Fail
+20,Jackson Evans,New York,35,40.48,API Source,Fail
+21,Madison Collins,Philadelphia,27,21.43,API Source,Fail
+22,Elijah Stewart,Columbus,34,38.1,API Source,Fail
+23,Chloe Morales,Dallas,40,52.38,API Source,Fail
+24,Mateo Nguyen,Columbus,31,30.95,API Source,Fail
+25,Harper Kelly,Philadelphia,28,23.81,API Source,Fail
+26,Evelyn Gonzalez,Dallas,36,42.86,API Source,Fail
+27,Daniel Cook,Los Angeles,42,57.14,API Source,Fail
+28,Lily Lee,Phoenix,30,28.57,API Source,Fail
+29,Henry Hill,Indianapolis,39,50.0,API Source,Fail
+30,Addison Wright,San Francisco,33,35.71,API Source,Fail

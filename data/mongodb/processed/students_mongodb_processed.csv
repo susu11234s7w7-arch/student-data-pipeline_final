@@ -1,0 +1,11 @@
+﻿id,name,city,age,department,score,score_level
+1001,Ahmed Ali,Sanaa,22,Computer Science,87.5,Good
+1002,Sara Mohamed,Dhamar,21,Information Systems,95.0,Excellent
+1004,Ali Abdullah,Taiz,24,Information Technology,72.5,Pass
+1005,Mona Saleh,Sanaa,20,Computer Science,97.5,Excellent
+1006,Omar Ahmed,Dhamar,22,Cyber Security,80.0,Good
+1007,Fatima Hassan,Ibb,21,Information Systems,92.5,Excellent
+1008,Yousef Mohammed,Taiz,25,Software Engineering,70.0,Pass
+1009,Noura Ali,Sanaa,23,Software Engineering,90.0,Excellent
+1010,Hassan Saleh,Dhamar,24,Cyber Security,75.0,Good
+1011,Suhail Alhaj,Sanaa,23,MongoDB Source,97.5,Excellent

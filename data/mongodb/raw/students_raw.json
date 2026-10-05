@@ -1,0 +1,113 @@
+[
+  {},
+  {
+    "student_id": 1001,
+    "name": "suhail",
+    "address": {
+      "city": "Sanaa",
+      "country": "Yemen"
+    },
+    "age": 1
+  },
+  {
+    "student_id": 1001,
+    "name": "Ahmed Ali",
+    "age": 22,
+    "city": "Sanaa",
+    "gpa": 3.5,
+    "major": "Computer Science"
+  },
+  {
+    "student_id": 1002,
+    "name": "Sara Mohamed",
+    "age": 21,
+    "city": "Dhamar",
+    "gpa": 3.8,
+    "major": "Information Systems"
+  },
+  {
+    "student_id": 1004,
+    "name": "Ali Abdullah",
+    "age": 24,
+    "city": "Taiz",
+    "gpa": 2.9,
+    "major": "Information Technology"
+  },
+  {
+    "student_id": 1005,
+    "name": "Mona Saleh",
+    "age": 20,
+    "city": "Sanaa",
+    "gpa": 3.9,
+    "major": "Computer Science"
+  },
+  {
+    "student_id": 1006,
+    "name": "Omar Ahmed",
+    "age": 22,
+    "city": "Dhamar",
+    "gpa": 3.2,
+    "major": "Cyber Security"
+  },
+  {
+    "student_id": 1007,
+    "name": "Fatima Hassan",
+    "age": 21,
+    "city": "Ibb",
+    "gpa": 3.7,
+    "major": "Information Systems"
+  },
+  {
+    "student_id": 1008,
+    "name": "Yousef Mohammed",
+    "age": 25,
+    "city": "Taiz",
+    "gpa": 2.8,
+    "major": "Software Engineering"
+  },
+  {
+    "student_id": 1009,
+    "name": "Noura Ali",
+    "age": 23,
+    "city": "Sanaa",
+    "gpa": 3.6,
+    "major": "Software Engineering"
+  },
+  {
+    "student_id": 1010,
+    "name": "Hassan Saleh",
+    "age": 24,
+    "city": "Dhamar",
+    "gpa": 3,
+    "major": "Cyber Security"
+  },
+  {
+    "student_id": 1011,
+    "name": "Suhail Alhaj",
+    "age": 23,
+    "address": {
+      "city": "Sanaa",
+      "country": "Yemen"
+    },
+    "academic": {
+      "gpa": 3.9,
+      "skills": [
+        "Python",
+        "SQL"
+      ],
+      "attendance": 95
+    },
+    "projects": [
+      {
+        "name": "AI Pipeline",
+        "year": 2026,
+        "status": "Completed"
+      },
+      {
+        "name": "Data Dashboard",
+        "year": 2025,
+        "status": "Completed"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+2026-10-05 13:30:54,941 | INFO | Extract JSON: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/json/raw/students.json
+2026-10-05 13:30:54,942 | INFO | Validation passed: 5 records
+2026-10-05 13:30:54,946 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 13:30:54,946 | INFO | Validation passed: 5 records
+2026-10-05 13:30:54,947 | INFO | JSON pipeline completed: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/json/processed/students_json_processed.csv
+2026-10-05 13:30:54,955 | INFO | Extract JSON: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/json/raw/students.json
+2026-10-05 13:30:54,955 | INFO | Validation passed: 5 records
+2026-10-05 13:30:54,959 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 13:30:54,959 | INFO | Validation passed: 5 records
+2026-10-05 13:30:54,960 | INFO | JSON pipeline completed: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/json/processed/students_json_processed.csv
+2026-10-05 13:30:58,133 | INFO | Extract JSON: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/json/raw/students.json
+2026-10-05 13:30:58,135 | INFO | Validation passed: 5 records
+2026-10-05 13:30:58,143 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 13:30:58,143 | INFO | Validation passed: 5 records
+2026-10-05 13:30:58,148 | INFO | JSON pipeline completed: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/json/processed/students_json_processed.csv
+2026-10-05 16:41:24,419 | INFO | Extract JSON: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\raw\students.json
+2026-10-05 16:41:24,420 | INFO | Validation passed: 5 records
+2026-10-05 16:41:24,427 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 16:41:24,427 | INFO | Validation passed: 5 records
+2026-10-05 16:41:24,430 | INFO | JSON pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\processed\students_json_processed.csv
+2026-10-05 16:43:34,537 | INFO | Extract JSON: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\raw\students.json
+2026-10-05 16:43:34,543 | INFO | Validation passed: 5 records
+2026-10-05 16:43:34,589 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 16:43:34,590 | INFO | Validation passed: 5 records
+2026-10-05 16:43:34,609 | INFO | JSON pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\processed\students_json_processed.csv
+2026-10-05 16:58:42,422 | INFO | Extract JSON: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\raw\students.json
+2026-10-05 16:58:42,424 | INFO | Validation passed: 5 records
+2026-10-05 16:58:42,434 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 16:58:42,434 | INFO | Validation passed: 5 records
+2026-10-05 16:58:42,438 | INFO | JSON pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\processed\students_json_processed.csv
+2026-10-05 16:58:42,459 | INFO | Extract JSON: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\raw\students.json
+2026-10-05 16:58:42,461 | INFO | Validation passed: 5 records
+2026-10-05 16:58:42,474 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 16:58:42,474 | INFO | Validation passed: 5 records
+2026-10-05 16:58:42,478 | INFO | JSON pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\processed\students_json_processed.csv
+2026-10-05 17:18:21,719 | INFO | Extract JSON: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\raw\students.json
+2026-10-05 17:18:21,722 | INFO | Validation passed: 5 records
+2026-10-05 17:18:21,745 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 17:18:21,747 | INFO | Validation passed: 5 records
+2026-10-05 17:18:21,756 | INFO | JSON pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\processed\students_json_processed.csv
+2026-10-05 17:18:21,819 | INFO | Extract JSON: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\raw\students.json
+2026-10-05 17:18:21,822 | INFO | Validation passed: 5 records
+2026-10-05 17:18:21,844 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 17:18:21,845 | INFO | Validation passed: 5 records
+2026-10-05 17:18:21,855 | INFO | JSON pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\processed\students_json_processed.csv
+2026-10-05 17:19:38,871 | INFO | Extract JSON: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\raw\students.json
+2026-10-05 17:19:38,878 | INFO | Validation passed: 5 records
+2026-10-05 17:19:38,920 | INFO | Clean/transform: 5 -> 5 records
+2026-10-05 17:19:38,921 | INFO | Validation passed: 5 records
+2026-10-05 17:19:38,935 | INFO | JSON pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\json\processed\students_json_processed.csv

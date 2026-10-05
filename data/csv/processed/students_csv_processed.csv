@@ -1,0 +1,9 @@
+﻿id,name,city,age,score,department,score_level
+1,Ahmed,Sanaa,22,88.0,Computer Science,Good
+2,Mohammed,Aden,23,91.0,Computer Science,Excellent
+3,Ali,,21,79.0,Information Systems,Good
+4,Sara,Dhamar,22,95.0,Computer Science,Excellent
+5,Noura,Taiz,24,88.0,Information Systems,Good
+6,Khaled,Hodeidah,22,84.0,Computer Science,Good
+7,Fatima,Sanaa,23,90.0,Information Systems,Excellent
+8,Omar,Ibb,22,76.0,Computer Science,Good

@@ -1,0 +1,7 @@
+[
+  {"id": 101, "name": "Yahya", "city": "Sanaa", "age": 22, "score": 87, "department": "Computer Science"},
+  {"id": 102, "name": "Aisha", "city": "Dhamar", "age": 23, "score": 93, "department": "Computer Science"},
+  {"id": 103, "name": "Hassan", "city": "Taiz", "age": null, "score": 81, "department": "Information Systems"},
+  {"id": 104, "name": "Mona", "city": "Ibb", "age": 21, "score": null, "department": "Information Systems"},
+  {"id": 105, "name": "Salem", "city": "Aden", "age": 24, "score": 89, "department": "Computer Science"}
+]

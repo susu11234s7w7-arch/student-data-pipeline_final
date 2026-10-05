@@ -1,0 +1,22 @@
+2026-10-05 16:41:30,669 | INFO | Connect MongoDB database=student_pipeline collection=students
+2026-10-05 17:01:50,310 | INFO | Connect MongoDB database=student_pipeline collection=students
+2026-10-05 17:06:36,990 | INFO | Connect MongoDB database=suhail collection=alhaji
+2026-10-05 17:13:45,783 | INFO | Connect MongoDB database=suhail collection=alhaj
+2026-10-05 17:13:45,898 | INFO | Validation passed: 12 records
+2026-10-05 17:13:45,921 | INFO | Clean/transform: 12 -> 12 records
+2026-10-05 17:13:45,922 | INFO | Validation passed: 12 records
+2026-10-05 17:13:45,936 | INFO | MongoDB pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\mongodb\processed\students_mongodb_processed.csv
+2026-10-05 17:17:31,496 | INFO | Connecting to MongoDB: database=suhail collection=alhaj
+2026-10-05 17:17:31,546 | INFO | Extracted 12 MongoDB documents
+2026-10-05 17:17:31,570 | WARNING | Rejected 2 MongoDB records
+2026-10-05 17:17:31,592 | INFO | Validation passed: 10 records
+2026-10-05 17:17:31,619 | INFO | Clean/transform: 10 -> 10 records
+2026-10-05 17:17:31,620 | INFO | Validation passed: 10 records
+2026-10-05 17:17:31,629 | INFO | MongoDB pipeline completed: 10 records
+2026-10-05 17:20:05,971 | INFO | Connecting to MongoDB: database=suhail collection=alhaj
+2026-10-05 17:20:06,030 | INFO | Extracted 12 MongoDB documents
+2026-10-05 17:20:06,062 | WARNING | Rejected 2 MongoDB records
+2026-10-05 17:20:06,079 | INFO | Validation passed: 10 records
+2026-10-05 17:20:06,102 | INFO | Clean/transform: 10 -> 10 records
+2026-10-05 17:20:06,103 | INFO | Validation passed: 10 records
+2026-10-05 17:20:06,110 | INFO | MongoDB pipeline completed: 10 records

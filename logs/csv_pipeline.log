@@ -1,0 +1,50 @@
+2026-10-05 13:30:54,925 | INFO | Extract CSV: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/csv/raw/students.csv
+2026-10-05 13:30:54,930 | INFO | Validation passed: 8 records
+2026-10-05 13:30:54,935 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 13:30:54,936 | INFO | Validation passed: 8 records
+2026-10-05 13:30:54,938 | INFO | CSV pipeline completed: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/csv/processed/students_csv_processed.csv
+2026-10-05 13:30:54,948 | INFO | Extract CSV: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/csv/raw/students.csv
+2026-10-05 13:30:54,949 | INFO | Validation passed: 8 records
+2026-10-05 13:30:54,954 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 13:30:54,954 | INFO | Validation passed: 8 records
+2026-10-05 13:30:54,955 | INFO | CSV pipeline completed: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/csv/processed/students_csv_processed.csv
+2026-10-05 13:30:56,513 | INFO | Extract CSV: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/csv/raw/students.csv
+2026-10-05 13:30:56,516 | INFO | Validation passed: 8 records
+2026-10-05 13:30:56,526 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 13:30:56,526 | INFO | Validation passed: 8 records
+2026-10-05 13:30:56,528 | INFO | CSV pipeline completed: /mnt/data/student_data_pipeline_final/student_data_pipeline/data/csv/processed/students_csv_processed.csv
+2026-10-05 16:41:24,399 | INFO | Extract CSV: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\raw\students.csv
+2026-10-05 16:41:24,403 | INFO | Validation passed: 8 records
+2026-10-05 16:41:24,414 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 16:41:24,414 | INFO | Validation passed: 8 records
+2026-10-05 16:41:24,419 | INFO | CSV pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\processed\students_csv_processed.csv
+2026-10-05 16:42:14,359 | INFO | Extract CSV: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\raw\students.csv
+2026-10-05 16:42:14,375 | INFO | Validation passed: 8 records
+2026-10-05 16:42:14,430 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 16:42:14,430 | INFO | Validation passed: 8 records
+2026-10-05 16:42:14,444 | INFO | CSV pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\processed\students_csv_processed.csv
+2026-10-05 16:58:42,395 | INFO | Extract CSV: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\raw\students.csv
+2026-10-05 16:58:42,400 | INFO | Validation passed: 8 records
+2026-10-05 16:58:42,411 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 16:58:42,412 | INFO | Validation passed: 8 records
+2026-10-05 16:58:42,417 | INFO | CSV pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\processed\students_csv_processed.csv
+2026-10-05 16:58:42,442 | INFO | Extract CSV: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\raw\students.csv
+2026-10-05 16:58:42,445 | INFO | Validation passed: 8 records
+2026-10-05 16:58:42,455 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 16:58:42,455 | INFO | Validation passed: 8 records
+2026-10-05 16:58:42,459 | INFO | CSV pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\processed\students_csv_processed.csv
+2026-10-05 17:18:21,646 | INFO | Extract CSV: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\raw\students.csv
+2026-10-05 17:18:21,660 | INFO | Validation passed: 8 records
+2026-10-05 17:18:21,691 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 17:18:21,692 | INFO | Validation passed: 8 records
+2026-10-05 17:18:21,705 | INFO | CSV pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\processed\students_csv_processed.csv
+2026-10-05 17:18:21,765 | INFO | Extract CSV: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\raw\students.csv
+2026-10-05 17:18:21,773 | INFO | Validation passed: 8 records
+2026-10-05 17:18:21,809 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 17:18:21,810 | INFO | Validation passed: 8 records
+2026-10-05 17:18:21,818 | INFO | CSV pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\processed\students_csv_processed.csv
+2026-10-05 17:19:23,673 | INFO | Extract CSV: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\raw\students.csv
+2026-10-05 17:19:23,677 | INFO | Validation passed: 8 records
+2026-10-05 17:19:23,689 | INFO | Clean/transform: 8 -> 8 records
+2026-10-05 17:19:23,689 | INFO | Validation passed: 8 records
+2026-10-05 17:19:23,695 | INFO | CSV pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\csv\processed\students_csv_processed.csv

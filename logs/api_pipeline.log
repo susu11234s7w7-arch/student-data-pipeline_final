@@ -1,0 +1,28 @@
+2026-10-05 16:41:24,431 | INFO | API request page=1 skip=0 limit=10
+2026-10-05 16:41:27,554 | INFO | API request page=2 skip=10 limit=10
+2026-10-05 16:41:28,742 | INFO | API request page=3 skip=20 limit=10
+2026-10-05 16:41:29,770 | INFO | Validation passed: 30 records
+2026-10-05 16:41:29,780 | INFO | Clean/transform: 30 -> 30 records
+2026-10-05 16:41:29,780 | INFO | Validation passed: 30 records
+2026-10-05 16:41:29,784 | INFO | API pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\api\processed\students_api_processed.csv
+2026-10-05 16:45:16,208 | INFO | API request page=1 skip=0 limit=10
+2026-10-05 16:45:18,634 | INFO | API request page=2 skip=10 limit=10
+2026-10-05 16:45:19,492 | INFO | API request page=3 skip=20 limit=10
+2026-10-05 16:45:21,634 | INFO | Validation passed: 30 records
+2026-10-05 16:45:21,649 | INFO | Clean/transform: 30 -> 30 records
+2026-10-05 16:45:21,650 | INFO | Validation passed: 30 records
+2026-10-05 16:45:21,660 | INFO | API pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\api\processed\students_api_processed.csv
+2026-10-05 17:00:44,735 | INFO | API request page=1 skip=0 limit=10
+2026-10-05 17:00:46,247 | INFO | API request page=2 skip=10 limit=10
+2026-10-05 17:00:47,966 | INFO | API request page=3 skip=20 limit=10
+2026-10-05 17:00:49,773 | INFO | Validation passed: 30 records
+2026-10-05 17:00:49,790 | INFO | Clean/transform: 30 -> 30 records
+2026-10-05 17:00:49,791 | INFO | Validation passed: 30 records
+2026-10-05 17:00:49,802 | INFO | API pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\api\processed\students_api_processed.csv
+2026-10-05 17:19:46,072 | INFO | API request page=1 skip=0 limit=10
+2026-10-05 17:19:47,105 | INFO | API request page=2 skip=10 limit=10
+2026-10-05 17:19:48,081 | INFO | API request page=3 skip=20 limit=10
+2026-10-05 17:19:48,986 | INFO | Validation passed: 30 records
+2026-10-05 17:19:48,997 | INFO | Clean/transform: 30 -> 30 records
+2026-10-05 17:19:48,997 | INFO | Validation passed: 30 records
+2026-10-05 17:19:49,006 | INFO | API pipeline completed: C:\Users\pc\Desktop\student_data_pipeline_final\data\api\processed\students_api_processed.csv
